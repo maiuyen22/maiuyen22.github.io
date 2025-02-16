@@ -1,10 +1,10 @@
 
 
-# A New Approach to Productivity
-
+---
 Recently, I came across an insightful video about productivity that introduced me to some fresh perspectives. I want to summarize the key points from the video that resonated with me and share my reflections on how they apply to my own life.
 
 I thought about productivity when my life was so overwhelming, but when I had more free time, I didn’t think about it. And I thought this was my problem.
+---
 
 ### Key Concepts:
 1. **Upper Limit vs. Bottom Limit**
