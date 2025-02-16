@@ -76,5 +76,5 @@ At the end of the day, both authors agree: **Productivity is about consistency a
 ---
 ### References
 
- 1. [Quản Lý Thời Gian Hiệu Quả Cho Sinh Viên](https://www.youtube.com/watch?v=yNtQe8tkUvQ&t=1047s) 
- 2. [Đầu năm nói về chuyện bận và cách quản lý thời gian trong ngày](https://www.youtube.com/watch?v=TMssaDO7pVg)
+ 1. [Đầu năm nói về chuyện bận và cách quản lý thời gian trong ngày](https://www.youtube.com/watch?v=TMssaDO7pVg)
+ 3. [Quản lý thời gian hiệu quả cho sinh viên](https://www.youtube.com/watch?v=yNtQe8tkUvQ&t=1047s)
