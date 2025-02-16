@@ -1,18 +1,3 @@
----
----
-title: "A New Approach to Productivity"
-last_modified_at: 2025-02-16
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
----
----
-
-
-
 
 
 # A New Approach to Productivity
